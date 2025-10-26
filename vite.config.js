@@ -3,6 +3,9 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
+  build: {
+    outDir: 'build'
+  },
   server: {
     host: true, // This makes the server accessible on your local network
     port: 3000,
