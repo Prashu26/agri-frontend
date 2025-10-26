@@ -1,0 +1,1 @@
+import{j as s}from"./index-CnOT8Fd6.js";const o=()=>s.jsxs("div",{className:"p-6",children:[s.jsx("h1",{className:"text-2xl font-bold mb-6",children:"Policy Reports"}),s.jsx("div",{className:"bg-white rounded-lg shadow p-6",children:s.jsx("p",{children:"This is a placeholder for the Policy Reports component."})})]});export{o as default};
