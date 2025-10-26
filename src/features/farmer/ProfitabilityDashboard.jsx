@@ -17,10 +17,10 @@ const ProfitabilityDashboard = () => {
       marketTrend: 'increasing',
       roi: 35, // percentage
       demand: 'High',
-      season: 'Kharif',
+        season: 'Kharif',
+      },
+      // Add more crops as needed
     };
-    // Add more crops as needed
-  };
 
   const [cropInfo, setCropInfo] = useState(cropData[selectedCrop]);
 

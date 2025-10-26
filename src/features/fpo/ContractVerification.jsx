@@ -11,7 +11,6 @@ import {
   FaFileAlt,
   FaFileContract,
   FaFileInvoiceDollar,
-  FaFileSignature,
   FaFileDownload,
   FaFileUpload,
   FaEye,
